@@ -1,4 +1,4 @@
-# Starting SonarQube using, and using Sonar Scanner
+# Starting SonarQube, and using Sonar Scanner
 
 ### Starting SonarQub:
 ```bash
