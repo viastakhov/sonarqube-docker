@@ -1,6 +1,6 @@
 # Starting SonarQube, and using Sonar Scanner
 
-### Starting SonarQub:
+### Starting SonarQube:
 ```bash
 docker-compose up -d
 ```
